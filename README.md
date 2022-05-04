@@ -8,13 +8,14 @@ Gitの練習用リポジトリ
 Macの場合はHomebrewの使用を強く推奨する
 
 ## GUI クライアントツール
+コマンドでの操作は敷居が高めなので以下のような Gitクライアントツールを使用して GUI上で操作することを推奨
+
+VS Codeのような開発用エディタを使用するのでもOK
+
 - [TortoiseGit(Win)](https://proengineer.internous.co.jp/content/columnfeature/7030)
 - [SourceTree(Win)](https://proengineer.internous.co.jp/content/columnfeature/6983)
 - [SourceTree(Mac)](https://44igarashi.hatenablog.com/entry/m1_sourcetree_install)
-
-各種 開発用テキストエディタやIDE上でもUI操作できるものが多い
-
-[VSCodeでの Git操作方法](https://qiita.com/y-tsutsu/items/2ba96b16b220fb5913be)
+- [VSCodeでの Git操作方法](https://qiita.com/y-tsutsu/items/2ba96b16b220fb5913be)
 
 ## 参考
 - [サル先生のgit入門](https://backlog.com/ja/git-tutorial/)
